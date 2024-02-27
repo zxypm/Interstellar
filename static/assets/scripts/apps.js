@@ -270,9 +270,9 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: 'Google Gemini ',
-      link: 'https://gemini.google.com',
-      image: '/assets/media/icons/gemini.png',
-      categories: ['all', 'ai'],
+      link: 'https://gmaik.com',
+      image: 'https://1000logos.net/wp-content/uploads/2018/05/Gmail-Logo-2013.png',
+      categories: ['all', 'mail'],
     },
   ]
 
